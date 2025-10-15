@@ -78,9 +78,7 @@ export default function Index() {
         }}
       >
         <div className="container mx-auto text-center animate-fade-in">
-          <h2 className="text-5xl md:text-7xl font-bold font-heading text-white mb-6">
-            Добро пожаловать в<br />Пенную вечеринку
-          </h2>
+          <h2 className="text-5xl md:text-7xl font-bold font-heading text-white mb-6">Добро пожаловать на пенную вечеринку</h2>
           <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-2xl mx-auto">
             Место, где каждая чашка кофе — это праздник вкуса и аромата
           </p>
