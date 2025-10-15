@@ -268,9 +268,7 @@ export default function Index() {
       <footer className="bg-primary text-primary-foreground py-8 px-4">
         <div className="container mx-auto text-center">
           <p className="text-lg font-heading mb-2">☕ Пенная вечеринка</p>
-          <p className="text-primary-foreground/80">
-            © 2024 Все права защищены
-          </p>
+          <p className="text-primary-foreground/80">© 2025 Все права защищены</p>
         </div>
       </footer>
     </div>
