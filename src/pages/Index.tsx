@@ -256,10 +256,7 @@ export default function Index() {
                   </div>
                   <div>
                     <h3 className="text-lg font-heading font-semibold mb-2">Email</h3>
-                    <p className="text-muted-foreground">
-                      info@pennaparty.ru<br />
-                      booking@pennaparty.ru
-                    </p>
+                    <p className="text-muted-foreground">penka@mail.ru</p>
                   </div>
                 </div>
               </CardContent>
