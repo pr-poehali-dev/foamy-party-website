@@ -182,18 +182,12 @@ export default function Index() {
         }}
       >
         <div className="container mx-auto text-center">
-          <h2 className="text-4xl md:text-5xl font-bold font-heading text-primary mb-6">
-            Присоединяйтесь к нам!
-          </h2>
-          <p className="text-xl text-foreground mb-8 max-w-2xl mx-auto">
-            Каждый день мы создаём незабываемые моменты для наших гостей
-          </p>
+          <h2 className="text-4xl md:text-5xl font-bold font-heading text-primary mb-6"></h2>
+          <p className="text-xl text-foreground mb-8 max-w-2xl mx-auto"></p>
           <Button 
             size="lg" 
             className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold text-lg px-8 py-6"
-          >
-            Забронировать столик
-          </Button>
+          ></Button>
         </div>
       </section>
 
